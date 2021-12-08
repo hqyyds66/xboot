@@ -18,7 +18,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableCaching
 //启用异步
 @EnableAsync
-//启用自带定时任务
+//启用自带定时任务22
 @EnableScheduling
 // 启用Admin监控
 @EnableAdminServer
